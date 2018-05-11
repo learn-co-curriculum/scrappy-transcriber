@@ -2,7 +2,11 @@
 
 ## Introduction
 
-Very low-fi caption capturer. Started by Maxwell Benton and CLI-ified by Steven Harms
+Very low-fi caption capturer. Started by Maxwell Benton and CLI-ified by Steven Harms.
+
+## Reliability
+
+Highly brittle since it's scraping tech.
 
 ## Usage
 
